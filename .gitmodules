@@ -1,0 +1,48 @@
+[submodule "admin/backend/msadmin-company-sales"]
+	path = admin/backend/msadmin-company-sales
+	url = https://github.com/Code-Crafters-PUJ/msadmin-company-sales.git
+[submodule "admin/backend/msadmin-users"]
+	path = admin/backend/msadmin-users
+	url = https://github.com/Code-Crafters-PUJ/msadmin-users.git
+[submodule "admin/backend/msadmin-marketing"]
+	path = admin/backend/msadmin-marketing
+	url = https://github.com/Code-Crafters-PUJ/msadmin-marketing.git
+[submodule "admin/backend/msadmin-support"]
+	path = admin/backend/msadmin-support
+	url = https://github.com/Code-Crafters-PUJ/msadmin-support.git
+[submodule "admin/frontend/web-app-admin"]
+	path = admin/frontend/web-app-admin
+	url = https://github.com/Code-Crafters-PUJ/web-app-admin.git
+[submodule "admin/frontend/api-gateway-admin"]
+	path = admin/frontend/api-gateway-admin
+	url = https://github.com/Code-Crafters-PUJ/api-gateway-admin.git
+[submodule "user/backend/ms-accounting"]
+	path = user/backend/ms-accounting
+	url = https://github.com/Code-Crafters-PUJ/ms-accounting.git
+[submodule "user/backend/ms-analytics"]
+	path = user/backend/ms-analytics
+	url = https://github.com/Code-Crafters-PUJ/ms-analytics.git
+[submodule "user/backend/ms-event-bus"]
+	path = user/backend/ms-event-bus
+	url = https://github.com/Code-Crafters-PUJ/ms-event-bus.git
+[submodule "user/backend/ms-inventory"]
+	path = user/backend/ms-inventory
+	url = https://github.com/Code-Crafters-PUJ/ms-inventory.git
+[submodule "user/backend/ms-payroll"]
+	path = user/backend/ms-payroll
+	url = https://github.com/Code-Crafters-PUJ/ms-payroll.git
+[submodule "user/backend/ms-sales"]
+	path = user/backend/ms-sales
+	url = https://github.com/Code-Crafters-PUJ/ms-sales.git
+[submodule "user/backend/ms-users"]
+	path = user/backend/ms-users
+	url = https://github.com/Code-Crafters-PUJ/ms-users.git
+[submodule "user/frontend/web-app-users"]
+	path = user/frontend/web-app-users
+	url = https://github.com/Code-Crafters-PUJ/web-app-users.git
+[submodule "user/frontend/api-gateway-users"]
+	path = user/frontend/api-gateway-users
+	url = https://github.com/Code-Crafters-PUJ/api-gateway-users.git
+[submodule "admin/backend/msadmin-event-bus"]
+	path = admin/backend/msadmin-event-bus
+	url = https://github.com/Code-Crafters-PUJ/msadmin-event-bus.git

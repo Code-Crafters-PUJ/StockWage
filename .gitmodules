@@ -46,3 +46,9 @@
 [submodule "admin/backend/msadmin-event-bus"]
 	path = admin/backend/msadmin-event-bus
 	url = https://github.com/Code-Crafters-PUJ/msadmin-event-bus.git
+[submodule "user/frontend/proxy-users"]
+	path = user/frontend/proxy-users
+	url = https://github.com/Code-Crafters-PUJ/proxy-users.git
+[submodule "admin/frontend/proxy-admin"]
+	path = admin/frontend/proxy-admin
+	url = https://github.com/Code-Crafters-PUJ/proxy-admin.git
